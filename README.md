@@ -18,6 +18,7 @@ Librería Android que funciona como un `wrapper` de las funcionalidades nativas 
 - [Leer un dato](#leer-un-dato)
 - [Eliminar un dato](#eliminar-un-dato)
 - [Sample](#sample)
+- [Bonus](#bonus)
 
 ## Instalación
 
@@ -117,6 +118,9 @@ suspend fun eliminarDato() {
 
 ## Sample
 Puedes ver este [ejemplo](./sample) de una pequeña app que muestra el uso de `StoreWrapper` en acción.
+
+## Bonus
+🧪 La librería cuenta con pruebas unitarias para reflejar un poco la manera de testear esta librería y asegurar su correcto funcionamiento.
 
 ### 🎉🎉🎉🎉🎉🎉
 ****
