@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">StoreWrapper</string>
+  <string name="write_mode_title">Pantalla de Escritura</string>
+  <string name="read_mode_title">Pantalla de Lectura</string>
+  <string name="change_to_write_mode">Cambiar a Escritura</string>
+  <string name="change_to_read_mode">Cambiar a Lectura</string>
+  <string name="user_info_title">Información del Usuario</string>
+  <string name="checkout_info_title">Información de Checkout</string>
+  <string name="user_info_keep_session_active">Mantener sesión activa</string>
+  <string name="user_info_name">Usuario</string>
+  <string name="user_info_pass">Contraseña</string>
+  <string name="save_info">Guardar</string>
+  <string name="enter_value">Ingresa un valor</string>
+  <string name="enter_string">Ingresa un String</string>
+  <string name="enter_int">Ingresa un Int</string>
+  <string name="key_name">Nombre de la key</string>
+  <string name="key">key</string>
+  <string name="primitive_types_section_title">Guardar Datos Primitivos</string>
+  <string name="remove_key_section_title">Eliminar Keys</string>
+  <string name="user_delete_key">Eliminar</string>
+  <string name="checkout_info_direction">Dirección</string>
+  <string name="checkout_info_city">Ciudad</string>
+  <string name="checkout_info_has_promotions">Aplicar cupón de descuento</string>
+  <string name="select_key_to_delete">Seleccionar key</string>
+  <string name="delete_all">Borrar todo</string>
+  <string name="no_saved_data_for">No hay datos guardados en %s</string>
+</resources>
